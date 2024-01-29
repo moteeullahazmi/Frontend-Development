@@ -6,7 +6,7 @@
 // bigint =>
 // string => ""
 // boolean => true/false
-// null => standalone value
+// null => standalone  value
 // undefined =>
 // symbol => unique design 
 
